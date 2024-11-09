@@ -20,7 +20,7 @@ Before getting started, ensure that you have the following prerequisites:
 1. Clone this repository to your local machine.
 
 ```bash
-git clone https://github.com/your-username/document-analysis-aws.git
+git clone https://github.com/afzal44/Unveiling-AWS-Textract-Comprehend-and-S3-Integration.git
 pip install -r requirements.txt
 streamlit run main.py
 
